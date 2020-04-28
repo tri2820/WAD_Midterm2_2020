@@ -1,0 +1,46 @@
+#submit_button {
+    margin-top: 30px;
+    float: none;
+    margin-left: 35%;
+    border: 5px solid white;
+    width: 70px;
+    height: 50px;
+
+    background-color: lightseagreen;
+}
+
+body {
+    background-color: #B0C3E1;
+}
+
+
+form {
+    width: 80%;
+    margin: 0 auto;
+}
+
+label, input {
+    display: inline-block;
+}
+
+label {
+    width: 30%;
+    text-align: right;
+}
+
+label + input {
+    width: 30%;
+    margin: 0 30% 0 4%;
+}
+
+input + input {
+    float: right;
+}
+
+#error {
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right:0;
+    text-align: center;
+}
