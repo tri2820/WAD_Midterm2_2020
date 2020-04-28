@@ -1,1 +1,1 @@
-This is the midterm-online-homework project of webapp design course. 
+This is the midterm-online-homework project for webapp design course. 
